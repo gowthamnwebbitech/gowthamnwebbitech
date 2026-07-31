@@ -1,28 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3500&pause=1200&color=0EA5E9&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Gowtham+N;Full+Stack+Mobile+%26+Web+Developer;React+Native+%7C+React.js+%7C+Next.js;Node.js+%7C+Laravel+%7C+TypeScript;Building+Scalable+Enterprise+Applications" />
+# 👋 Hi, I'm Gowtham N
 
-<h3>
-Full Stack Mobile & Web Developer
-</h3>
+### 🚀 Full Stack Mobile & Web Developer
 
-<p>
-Building scalable, secure, and high-performance Mobile & Web Applications with modern technologies, clean architecture, and industry best practices.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3500&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=React+Native+Developer;React.js+Developer;Next.js+Developer;Node.js+Developer;Laravel+Backend+Developer;TypeScript+Developer;Building+Scalable+Enterprise+Applications" />
 
-<img src="https://komarev.com/ghpvc/?username=gowthamnwebbitech&label=Profile%20Views&style=for-the-badge&color=0ea5e9"/>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=gowthamnwebbitech&label=Profile+Views&style=for-the-badge&color=0EA5E9"/>
+
+<img src="https://img.shields.io/github/followers/gowthamnwebbitech?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/gowthamnwebbitech?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 👨‍💻 Professional Summary
+# 💫 About Me
 
-```ts
+```typescript
 const gowtham = {
+
     role: "Full Stack Mobile & Web Developer",
 
-    experience: [
+    specialization: [
         "React Native CLI",
         "React.js",
         "Next.js",
@@ -31,35 +34,52 @@ const gowtham = {
         "Laravel"
     ],
 
-    expertise: [
-        "Mobile Development",
-        "Web Development",
-        "REST APIs",
-        "Clean Architecture",
-        "Enterprise Applications"
+    languages: [
+        "JavaScript",
+        "TypeScript"
     ],
 
-    database: [
+    mobile: [
+        "Redux Toolkit",
+        "React Navigation",
+        "Firebase",
+        "Push Notifications",
+        "Razorpay"
+    ],
+
+    frontend: [
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS",
+        "Bootstrap"
+    ],
+
+    backend: [
+        "REST APIs",
+        "JWT Authentication",
         "MySQL",
         "Firebase"
     ],
 
-    payment: [
-        "Razorpay"
+    architecture: [
+        "Clean Architecture",
+        "Enterprise Applications",
+        "Performance Optimization"
     ],
 
-    currentlyLearning: [
+    learning: [
         "Docker",
         "AWS",
         "CI/CD",
-        "System Design"
+        "System Design",
+        "Microservices"
     ]
 }
 ```
 
 ---
 
-# 🚀 Technology Stack
+# 🛠 Technology Stack
 
 <p align="center">
 
@@ -69,15 +89,15 @@ const gowtham = {
 
 ---
 
-# 💼 Areas of Expertise
+# 🚀 Expertise
 
-| Mobile Development | Frontend | Backend | Database |
-|--------------------|----------|----------|-----------|
+| Mobile | Frontend | Backend | Database |
+|---------|----------|----------|----------|
 | React Native CLI | React.js | Node.js | MySQL |
 | Redux Toolkit | Next.js | Express.js | Firebase |
 | React Navigation | HTML5 | Laravel | |
 | Push Notifications | CSS3 | REST APIs | |
-| Razorpay | Tailwind CSS | JWT Authentication | |
+| Razorpay | Tailwind CSS | JWT Auth | |
 | TypeScript | Bootstrap | API Integration | |
 
 ---
@@ -86,15 +106,15 @@ const gowtham = {
 
 <p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gowthamnwebbitech&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=gowthamnwebbitech&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamnwebbitech&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gowthamnwebbitech&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=gowthamnwebbitech&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=gowthamnwebbitech&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -104,60 +124,88 @@ const gowtham = {
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gowthamnwebbitech&theme=algolia&no-frame=true&margin-w=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gowthamnwebbitech&theme=onedark&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamnwebbitech&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gowthamnwebbitech&theme=github-dark"/>
 
 </p>
+
+---
+
+# 💼 What I Build
+
+- 📱 Enterprise Mobile Applications
+- 🌐 Modern Web Applications
+- ⚙ REST API Development
+- 🔐 Authentication Systems
+- 💳 Payment Gateway Integration
+- 🔔 Push Notification Systems
+- ☁ Firebase Solutions
+- 📊 Admin Dashboards
+- 📦 Business Management Systems
 
 ---
 
 # 🎯 Current Focus
 
-✔ Enterprise Mobile Applications
-
-✔ Enterprise Web Applications
-
-✔ React Native Architecture
-
-✔ Next.js Development
-
-✔ Node.js Backend Development
-
-✔ Laravel REST APIs
-
-✔ Performance Optimization
-
-✔ Scalable Software Design
-
-✔ Clean Architecture
+- Enterprise Mobile Apps
+- Enterprise Web Apps
+- React Native CLI
+- Next.js
+- Node.js
+- Laravel
+- Performance Optimization
+- Clean Architecture
+- Scalable Software Design
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
 - Docker
 - Kubernetes
 - AWS Cloud
-- CI/CD Pipelines
+- CI/CD
 - Microservices
 - System Design
 
 ---
 
-# 🤝 Let's Connect
+# 📌 Featured Technologies
 
 <p align="center">
 
-<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:your-email@example.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -179,8 +227,10 @@ const gowtham = {
 
 <div align="center">
 
-### 💻 *"Code with Purpose • Build with Passion • Learn Every Day"*
+## 💡 Developer Philosophy
 
-⭐ Thank you for visiting my profile!
+> **"Build scalable software. Write clean code. Never stop learning."**
+
+⭐ Thanks for visiting my profile!
 
 </div>
